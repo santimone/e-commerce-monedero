@@ -83,3 +83,14 @@ body {
 	flex: 1;
 	flex-direction: column;
 }
+
+.alert {
+	position: absolute;
+	top: 64px;
+	right: 0;
+	background-color: #16283b;
+	margin-right: 15px;
+	padding: 10px;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
